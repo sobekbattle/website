@@ -10,7 +10,7 @@ const Home = () => (
     </Head>
 
     <Nav />
-
+    <main>
     <div className='max-w-xs rounded overflow-hidden shadow-lg my-2'>
         <img
           className='w-full'
@@ -25,7 +25,10 @@ const Home = () => (
           </p>
         </div>
       </div>
+      </main>
+      <Footer />
     </div>
+    
 );
 
 export default Home;
