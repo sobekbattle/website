@@ -16,12 +16,11 @@ const Nav = () => (
       <li className="flex px-2 py-1">
         <Link href="/">
           <a className="text-blue-500 no-underline text-sm">Home</a>
-          <button type="button" className="text-gray-500 group bg-white rounded-md inline-flex items-center text-base font-medium hover:text-gray-900 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500" aria-expanded="false"/>
         </Link>
       </li>
       {links.map(({ key, href, label }) => (
         <li key={key} className="flex px-2 py-1">
-          <a className="text-blue-500 no-underline text-sm" href={href}>
+          <a className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700" href={href}>
             {label}
           </a>
         </li>
