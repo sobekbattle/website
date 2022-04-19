@@ -13,7 +13,7 @@ const Home = () => (
     <Nav />
     
     <div className='flex min-h-screen justify-center items-center'>
-    <div className='max-w-xs rounded overflow-hidden shadow-lg my-2'>
+    <div className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
         <img
           className='w-full'
           src="/sobek.png"
