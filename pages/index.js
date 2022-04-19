@@ -12,6 +12,7 @@ const Home = () => (
 
     <Nav />
     
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
     <div className='max-w-xs rounded overflow-hidden shadow-lg my-2'>
         <img
           className='w-full'
@@ -25,6 +26,7 @@ const Home = () => (
             article on how you can combine these two for your next app.
           </p>
         </div>
+    </div>
     </div>
     <Footer />
   </div>
