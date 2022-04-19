@@ -3,7 +3,7 @@ import Head from "next/head";
 import Nav from "../components/nav";
 
 const Home = () => (
-  <div className="text-sans">
+  <div className='flex min-h-screen justify-center items-center'>
     <Head>
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
