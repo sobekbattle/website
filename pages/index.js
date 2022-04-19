@@ -14,7 +14,7 @@ const Home = () => (
     <div className='max-w-xs rounded overflow-hidden shadow-lg my-2'>
         <img
           className='w-full'
-          src='https://tailwindcss.com/img/card-top.jpg'
+          src="/sobek.png"
           alt='Sunset in the mountains'
         />
         <div className='px-6 py-4'>
