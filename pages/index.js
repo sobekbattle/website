@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Nav from "../components/nav";
+import Footer from "../components/Footer";
 
 const Home = () => (
   <div className='flex min-h-screen justify-center items-center'>
@@ -24,9 +25,9 @@ const Home = () => (
             article on how you can combine these two for your next app.
           </p>
         </div>
-      </div>
-      <Footer />
     </div>
+    <Footer />
+  </div>
     
 );
 
