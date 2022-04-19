@@ -11,8 +11,8 @@ const links = [
 });
 
 const Nav = () => (
-  <nav className="text-center">
-    <ul className="flex justify-between px-4 my-4 py-1">
+  <nav className="max-w-7xl mx-auto px-4 sm:px-6">
+    <ul className="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
       <li className="flex px-2 py-1">
         <Link href="/">
           <a className="text-blue-500 no-underline text-sm">Home</a>
