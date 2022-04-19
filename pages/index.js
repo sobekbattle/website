@@ -14,6 +14,7 @@ const Home = () => (
     
     <div className='flex min-h-screen justify-center items-center'>
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
+    <div className='font-bold text-xl mb-2'>Next + Tailwind ❤️</div>
         <img
           className='w-full'
           src="/sobek.png"
