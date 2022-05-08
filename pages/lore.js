@@ -19,14 +19,14 @@ const Lore = () => (
         <div className='px-6 py-4'>
         <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
         <div className='text-grey-darker text-base'>
-        In ancient times, a great beast walked the Earth with men. Some late remnant of an even more ancient planet, these hulking beast were surprisingly friendly and devoted to anyone who fed them.</div>
+        In ancient times, a great beast walked the Earth with men. These hulking beasts were surprisingly friendly and devoted to anyone who fed them.</div>
         <img
           className='w-full'
           src="/sobek.png"
           alt='Sunset in the mountains'
         />
         <div className='text-grey-darker text-base'>
-        And fed them they did for they were always hungry. The bottomless pits that they were even inspired some to worship the beast as the God of Hunger and named him Sobek.</div>
+        And fed them they did for they were always hungry. Many across the ancient lands began to worship the beasts as the God of Hunger and named him Sobek.</div>
         </div>
     </div>
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
@@ -41,7 +41,7 @@ const Lore = () => (
           alt='Sunset in the mountains'
         />
         <div className='text-grey-darker text-base'>
-        Tournaments of epic proportions for gold and glory were held all through out the ancient lands.</div>
+        Tournaments of epic proportions for gold and glory were held all through out the ancient lands. Until one day, the Sobek disappeared. </div>
         
         </div>
     </div>
@@ -50,14 +50,14 @@ const Lore = () => (
         <div className='px-6 py-4'>
         <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
         <div className='text-grey-darker text-base'>
-        Until one day, the Sobek disappeared. They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma.</div>
+        They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma. There are new rumblings and grumblings. </div>
         <img
           className='w-full'
           src="/sobek.png"
           alt='Sunset in the mountains'
         />
         <div className='text-grey-darker text-base'>
-        There are new rumblings and grumblings. Some can hear it and know what opportunities await for those who learn the ways of the Sobeki and prepare for The Great Sobek Battles.</div>
+        Some can hear it and know what opportunities await for those who learn the ways of the Sobeki and prepare for The Great Sobek Battles.</div>
         </div>
     </div>
     </div>
