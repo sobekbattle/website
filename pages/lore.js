@@ -13,7 +13,7 @@ const Lore = () => (
     <Nav />
     <div className='font-bold text-xl justify-center mb-2'>Lore</div>
     <div className='flex min-h-screen justify-center items-center'>
-      
+    <div className='font-bold text-xl justify-center mb-2'>Lore</div>
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
     
         <div className='px-6 py-4'>
