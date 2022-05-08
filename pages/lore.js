@@ -35,6 +35,11 @@ const Lore = () => (
         <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
         <div className='text-grey-darker text-base'>
         The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born. Tournaments of epic proportions for gold and glory were held all through out the ancient lands.</div>
+        <img
+          className='w-full'
+          src="/sobek.png"
+          alt='Sunset in the mountains'
+        />
         </div>
     </div>
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
@@ -43,6 +48,11 @@ const Lore = () => (
         <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
         <div className='text-grey-darker text-base'>
         Until one day, the Sobek disappeared. They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma.</div>
+        <img
+          className='w-full'
+          src="/sobek.png"
+          alt='Sunset in the mountains'
+        />
         <div className='text-grey-darker text-base'>
         There are new rumblings and grumblings. Some can hear it and know what opportunities await for those who learn the ways of the Sobeki and prepare for The Great Sobek Battles.</div>
         </div>
