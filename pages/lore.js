@@ -20,6 +20,11 @@ const Lore = () => (
         <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
         <div className='text-grey-darker text-base'>
         In ancient times, a great beast walked the Earth with men. Some late remnant of an even more ancient planet, these hulking beast were surprisingly friendly and devoted to anyone who fed them.</div>
+        <img
+          className='w-full'
+          src="/sobek.png"
+          alt='Sunset in the mountains'
+        />
         <div className='text-grey-darker text-base'>
         And fed them they did for they were always hungry. The bottomless pits that they were even inspired some to worship the beast as the God of Hunger and named him Sobek.</div>
         </div>
