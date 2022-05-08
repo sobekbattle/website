@@ -11,13 +11,13 @@ const Lore = () => (
     </Head>
 
     <Nav />
-    
+    <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
     <div className='flex min-h-screen justify-center items-center'>
       
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
     
         <div className='px-6 py-4'>
-        <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
+        
         <div className='text-grey-darker text-base'>
         In ancient times, a great beast walked the Earth with men. These hulking beasts were surprisingly friendly and devoted to anyone who fed them.</div>
         <img
@@ -32,7 +32,7 @@ const Lore = () => (
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
     
         <div className='px-6 py-4'>
-        <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
+        
         <div className='text-grey-darker text-base'>
         The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born.</div>
         <img
@@ -48,7 +48,7 @@ const Lore = () => (
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
     
         <div className='px-6 py-4'>
-        <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
+        
         <div className='text-grey-darker text-base'>
         They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma. There are new rumblings and grumblings. </div>
         <img
