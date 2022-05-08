@@ -34,12 +34,15 @@ const Lore = () => (
         <div className='px-6 py-4'>
         <div className='font-bold text-xl mb-2'>Full Contact Crypto</div>
         <div className='text-grey-darker text-base'>
-        The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born. Tournaments of epic proportions for gold and glory were held all through out the ancient lands.</div>
+        The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born.</div>
         <img
           className='w-full'
           src="/sobek.png"
           alt='Sunset in the mountains'
         />
+        <div className='text-grey-darker text-base'>
+        Tournaments of epic proportions for gold and glory were held all through out the ancient lands.</div>
+        
         </div>
     </div>
     <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
