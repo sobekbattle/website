@@ -4,7 +4,7 @@ import Link from "next/link";
 
 const links = [
   { href: "/lore", label: "Lore" },
-  { href: "https://github.com/zeit/next.js", label: "Team" },
+  { href: "https://drive.google.com/file/d/16qlL0UV0H5omf3aVaz4zHF-XlIh-EGvN/view?usp=sharing", label: "Deck" },
 ].map((link) => {
   link.key = `nav-link-${link.href}-${link.label}`;
   return link;
