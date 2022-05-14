@@ -18,8 +18,10 @@ const Nav = () => (
           <a className="text-blue-500 no-underline text-sm">Home</a>
         </Link>
       </li>
+      </ul>
+      <ul className="flex justify-between items-center border-b-2 border-gray-100 py-6 md:justify-end md:space-x-10">
       {links.map(({ key, href, label }) => (
-        <li key={key} className="flex justify-end px-2 py-1">
+        <li key={key} className="flex px-2 py-1">
           <a className="ml-8 whitespace-nowrap inline-flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-base font-medium text-white bg-indigo-600 hover:bg-indigo-700" href={href}>
             {label}
           </a>
