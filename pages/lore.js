@@ -21,7 +21,7 @@ const Lore = () => (
         In ancient times, a great beast walked the Earth with men. These hulking beasts were surprisingly friendly and devoted to anyone who fed them.</div>
         <img
           className='w-full'
-          src="/sobekBlue.png"
+          src="/sobekPurple.jpg"
           alt='Sunset in the mountains'
         />
         <div className='text-grey-darker text-base'>
@@ -52,7 +52,7 @@ const Lore = () => (
         They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma. There are new rumblings and grumblings. </div>
         <img
           className='w-full'
-          src="/sobekPurple.png"
+          src="/sobekBlue.png"
           alt='Sunset in the mountains'
         />
         <div className='text-grey-darker text-base'>
