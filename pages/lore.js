@@ -36,7 +36,7 @@ const Lore = () => (
         The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born.</div>
         <img
           className='w-full'
-          src="/sobek.png"
+          src="/sobekSketch.jpg"
           alt='Sunset in the mountains'
         />
         <div className='text-grey-darker text-base'>
