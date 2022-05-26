@@ -11,54 +11,6 @@ const Lore = () => (
     </Head>
 
     <Nav />
-    <div className='font-bold text-4xl text-center justify-center mb-2'>Lore</div>
-    <div className='flex grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
-    <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
-    
-        <div className='px-6 py-4'>
-        
-        <div className='text-grey-darker text-base'>
-        In ancient times, a great beast walked the Earth with men. These hulking beasts were surprisingly friendly and devoted to anyone who fed them.</div>
-        <img
-          className='w-full'
-          src="/sobekPurple.jpg"
-          alt='Sunset in the mountains'
-        />
-        <div className='text-grey-darker text-base'>
-        And fed them they did for they were always hungry. Many across the ancient lands began to worship the beasts as the God of Hunger and named him Sobek.</div>
-        </div>
-    </div>
-    <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
-    
-        <div className='px-6 py-4'>
-        
-        <div className='text-grey-darker text-base'>
-        The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born.</div>
-        <img
-          className='w-full'
-          src="/sobekSketch.jpg"
-          alt='Sunset in the mountains'
-        />
-        <div className='text-grey-darker text-base'>
-        Tournaments of epic proportions for gold and glory were held all through out the ancient lands. Until one day, the Sobek disappeared. </div>
-        
-        </div>
-    </div>
-    <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
-    
-        <div className='px-6 py-4'>
-        
-        <div className='text-grey-darker text-base'>
-        They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma. There are new rumblings and grumblings. </div>
-        <img
-          className='w-full'
-          src="/sobekBlue.png"
-          alt='Sunset in the mountains'
-        />
-        <div className='text-grey-darker text-base'>
-        Some can hear it and know what opportunities await for those who learn the ways of the Sobeki and prepare for The Great Sobek Battles.</div>
-        </div>
-    </div>
     <div id="carouselExampleCaptions" class="carousel slide relative" data-bs-ride="carousel">
   <div class="carousel-indicators absolute right-0 bottom-0 left-0 flex justify-center p-0 mb-4">
     <button
@@ -136,6 +88,55 @@ const Lore = () => (
     <span class="visually-hidden">Next</span>
   </button>
 </div>
+    <div className='font-bold text-4xl text-center justify-center mb-2'>Lore</div>
+    <div className='flex grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6'>
+    <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
+    
+        <div className='px-6 py-4'>
+        
+        <div className='text-grey-darker text-base'>
+        In ancient times, a great beast walked the Earth with men. These hulking beasts were surprisingly friendly and devoted to anyone who fed them.</div>
+        <img
+          className='w-full'
+          src="/sobekPurple.jpg"
+          alt='Sunset in the mountains'
+        />
+        <div className='text-grey-darker text-base'>
+        And fed them they did for they were always hungry. Many across the ancient lands began to worship the beasts as the God of Hunger and named him Sobek.</div>
+        </div>
+    </div>
+    <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
+    
+        <div className='px-6 py-4'>
+        
+        <div className='text-grey-darker text-base'>
+        The Sobeki, or trainers, learned early on that the beast would gladly compete for gold, gems and baubles. Thus the Great Sobek Battles were born.</div>
+        <img
+          className='w-full'
+          src="/sobekSketch.jpg"
+          alt='Sunset in the mountains'
+        />
+        <div className='text-grey-darker text-base'>
+        Tournaments of epic proportions for gold and glory were held all through out the ancient lands. Until one day, the Sobek disappeared. </div>
+        
+        </div>
+    </div>
+    <div className='max-w-lg mx-auto px-4 sm:px-6 lg:px-8" rounded overflow-hidden shadow-lg my-2'>
+    
+        <div className='px-6 py-4'>
+        
+        <div className='text-grey-darker text-base'>
+        They entered a long, deep hibernation to sleep off their excesses in thousand year long food comma. There are new rumblings and grumblings. </div>
+        <img
+          className='w-full'
+          src="/sobekBlue.png"
+          alt='Sunset in the mountains'
+        />
+        <div className='text-grey-darker text-base'>
+        Some can hear it and know what opportunities await for those who learn the ways of the Sobeki and prepare for The Great Sobek Battles.</div>
+        </div>
+    </div>
+    
     </div>
     <Footer />
   </div>
