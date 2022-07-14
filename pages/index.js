@@ -8,7 +8,7 @@ const Home = () => (
     <Head>
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
-      // <!-- Global site tag (gtag.js) - Google Analytics -->
+      // Global site tag (gtag.js) - Google Analytics
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-SSZKDT0PBC"></script>
       <script>
         window.dataLayer = window.dataLayer || [];
