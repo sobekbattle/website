@@ -9,15 +9,6 @@ const Home = () => (
     <Head>
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
-      // Global site tag (gtag.js) - Google Analytics
-      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-SSZKDT0PBC"></Script>
-      <Script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
-
-        gtag('config', 'G-SSZKDT0PBC');
-      </Script>
     </Head>
 
     <Nav />
