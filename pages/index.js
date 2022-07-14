@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import Script from "next/script";
 import Nav from "../components/nav";
 import Footer from "../components/Footer";
 
@@ -9,14 +10,14 @@ const Home = () => (
       <title>Home</title>
       <link rel="icon" href="/favicon.ico" />
       // Global site tag (gtag.js) - Google Analytics
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-SSZKDT0PBC"></script>
-      <script>
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-SSZKDT0PBC"></Script>
+      <Script>
         window.dataLayer = window.dataLayer || [];
         function gtag(){dataLayer.push(arguments);}
          gtag('js', new Date());
 
         gtag('config', 'G-SSZKDT0PBC');
-      </script>
+      </Script>
     </Head>
 
     <Nav />
